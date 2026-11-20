@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Googlebot & Bingbot crawl optimization
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://sanctum-chess-3d.vercel.app/sitemap.xml

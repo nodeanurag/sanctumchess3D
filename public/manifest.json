@@ -1,0 +1,25 @@
+{
+  "name": "Sanctum 3D Chess — Royal Chess Online",
+  "short_name": "3D Chess",
+  "description": "Play the ultimate 3D royal chess game online. Interactive 3D Gothic Cathedral board with sculpted pieces, kinetic combat, and single-player chess AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#04060b",
+  "theme_color": "#d4af37",
+  "orientation": "any",
+  "categories": ["games", "entertainment", "strategy"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64 128x128 256x256",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/og-image.png",
+      "sizes": "1200x630",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

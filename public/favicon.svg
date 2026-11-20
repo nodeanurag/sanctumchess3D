@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <radialGradient id="goldGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fdf6c7" />
+      <stop offset="60%" stop-color="#d4af37" />
+      <stop offset="100%" stop-color="#aa7c11" />
+    </radialGradient>
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#141926" />
+      <stop offset="100%" stop-color="#04060b" />
+    </radialGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#bgGlow)" stroke="#d4af37" stroke-width="2" />
+  <!-- Gothic Altar Cross & Crown Motif -->
+  <path d="M32 10 L35 15 L40 15 L36 19 L38 24 L32 21 L26 24 L28 19 L24 15 L29 15 Z" fill="url(#goldGlow)" />
+  <path d="M18 48 L46 48 L44 38 L38 42 L32 26 L26 42 L20 38 Z" fill="url(#goldGlow)" stroke="#fff" stroke-width="0.5" />
+  <rect x="16" y="49" width="32" height="5" rx="1.5" fill="url(#goldGlow)" />
+</svg>
