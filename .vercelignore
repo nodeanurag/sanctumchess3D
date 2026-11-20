@@ -1,0 +1,18 @@
+# Dependencies (Vercel installs these fresh during build)
+node_modules/
+
+# Local build artifacts
+dist/
+
+# Tests & CI
+test/
+.github/
+
+# Documentation & Engineering handoff
+HANDOFF.md
+docs/
+
+# Local environment & scratch
+*.tmp
+*.bak
+.env*.local
